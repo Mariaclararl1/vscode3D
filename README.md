@@ -1,2 +1,1 @@
-# vscode3D
-vscode3D
+# VSCode3D
